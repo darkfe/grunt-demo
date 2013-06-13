@@ -13,7 +13,8 @@
     "grunt-yui-compressor": "~0.2.2",
     "grunt-jspacker": "~0.1.0",
     "grunt-combiner": "~0.1.0",
-    "grunt-string-replace": "~0.2.4"
+    "grunt-string-replace": "~0.2.4",
+    "grunt-contrib-copy": "~0.4.1"
   },
   "repository": "",
   "author": "",
